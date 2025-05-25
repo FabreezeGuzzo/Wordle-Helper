@@ -1,0 +1,19 @@
+State Purpose(within main function)
+
+Import os
+
+Function used to read file
+    Within function:
+    Ask user for input(letter for the wordle)
+    Create an empty list
+Function for All Words that Have a User Chosen Letter in the Word
+
+Function for All Words that Have a User Chosen Letter in a Specified Location
+
+Function for All Words that Have a User Specified Number of Vowels
+
+Function for color of input
+
+Main function
+    Call all functions
+    thank user
